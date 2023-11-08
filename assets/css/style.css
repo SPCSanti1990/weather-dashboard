@@ -1,1 +1,38 @@
 /* Style sheet */
+body {
+    background-color: darkgrey;
+    color: lightcyan;
+}
+
+main {
+    height: 100vh;
+    border-top: blue;
+}
+
+.main-row {
+    height: 100%;
+}
+
+.search-column {
+    border-right: lightgray;
+}
+
+#search {
+    background-color: gray;
+    border: lightgray solid 1px;
+}
+
+.report {
+    height: 33%;
+}
+
+.card {
+    background-color: grey;
+    border:lightgray solid 1px;
+    width: 100%;
+}
+
+.card-img {
+    height: 100px;
+    width: auto;
+}
