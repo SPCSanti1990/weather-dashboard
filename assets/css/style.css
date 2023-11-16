@@ -9,6 +9,10 @@ main {
     border-top: blue;
 }
 
+li {
+    color:black;
+}
+
 .main-row {
     height: 100%;
 }
